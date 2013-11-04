@@ -1,0 +1,10 @@
+name: HerobrineTheGame
+main: me.avery246813579.HerobrineTheGame.HerobrineTheGame
+author: Avery246813579
+version: 0.00.1
+decription: Swag
+commands:
+  Create:
+    description: Creates shit.
+  HB:
+    description: Creates shit.    

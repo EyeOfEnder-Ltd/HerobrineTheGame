@@ -1,0 +1,19 @@
+# Game Timers #
+
+lobbyTime: 90
+
+# Game Settings #
+
+clearInventoryOnJoin: false
+saveInventory: true
+
+helpBook: true
+broadcastIntervals: 20
+broadcastAllPlayers: true
+
+# Lobby Info #
+flyInLobby: false
+
+# Player Info #
+maxPlayers: 16
+playersToStart: 8
